@@ -1,13 +1,12 @@
 // String, number, undefined, null, boolean
-const nome = 'Luiz'; // string
-const nome1 = 'Luiz'; // string
-const nome2 = 'Luiz'; // string
-const num1 = 10; // number
-const num2 = 10.52; // number
+const nome = "Ramon"; // string
+const nome1 = "Ramon"; // string
+const nome2 = "Ramon"; // string
+const num1 = 21; // number
+const num2 = 18.32; // number
 let nomeAluno; // undefined -> não aponta pra local nenhuma na memória
 const sobrenomeAluno = null; // Nulo -> não aponta pra local nenhuma na memória
 const aprovado = false; // Boolean = true, false (lógico)
-
 
 let a = 2;
 const b = a;
